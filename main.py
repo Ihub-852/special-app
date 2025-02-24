@@ -15,3 +15,5 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 # This is sample python file for remote Git repo
+
+# some new changes for lesson 2.7 Внесение изменений и их отправка
